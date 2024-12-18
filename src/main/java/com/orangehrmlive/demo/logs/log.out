@@ -1,0 +1,92 @@
+2024-12-17 17:12:12 INFO  HomePage :40 - enter user nameAdmin
+2024-12-17 17:12:104 INFO  HomePage :46 - enter passwordadmin123
+2024-12-17 17:12:328 INFO  HomePage :40 - enter user nameAdmin
+2024-12-17 17:12:411 INFO  HomePage :46 - enter passwordadmin123
+2024-12-17 17:12:272 INFO  HomePage :52 - click on [[ChromeDriver: chrome on windows (a2e3687ea0c28ac91b79b0096e805194)] -> xpath: //button[@type='submit']]
+2024-12-17 17:12:161 INFO  HomePage :40 - enter user nameAdmin
+2024-12-17 17:12:245 INFO  HomePage :46 - enter passwordadmin123
+2024-12-17 17:12:27 INFO  HomePage :40 - enter user nameAdmin
+2024-12-17 17:12:119 INFO  HomePage :46 - enter passwordadmin123
+2024-12-17 17:12:08 INFO  HomePage :52 - click on [[ChromeDriver: chrome on windows (b7601c134d3c060eedd8fca813bde3d9)] -> xpath: //button[@type='submit']]
+2024-12-17 17:12:254 INFO  HomePage :31 - verify user profile image is displayed [[ChromeDriver: chrome on windows (b7601c134d3c060eedd8fca813bde3d9)] -> xpath: //span[@class='oxd-userdropdown-tab']]
+2024-12-17 17:12:60 INFO  HomePage :40 - enter user nameAdmin
+2024-12-17 17:12:153 INFO  HomePage :46 - enter passwordadmin123
+2024-12-17 17:12:981 INFO  HomePage :52 - click on [[ChromeDriver: chrome on windows (faa3225bceebb7a824c02d163d6a9cf6)] -> xpath: //button[@type='submit']]
+2024-12-17 17:12:244 INFO  HomePage :48 - click on [[ChromeDriver: chrome on windows (faa3225bceebb7a824c02d163d6a9cf6)] -> xpath: //a[normalize-space()='Logout']]
+2024-12-17 17:12:193 INFO  HomePage :40 - enter user name
+2024-12-17 17:12:243 INFO  HomePage :46 - enter password
+2024-12-17 17:12:90 INFO  HomePage :40 - enter user nametest123@gmail.com
+2024-12-17 17:12:154 INFO  HomePage :46 - enter password
+2024-12-17 17:12:03 INFO  HomePage :40 - enter user name
+2024-12-17 17:12:77 INFO  HomePage :46 - enter passwordtest123
+2024-12-17 17:12:906 INFO  HomePage :40 - enter user nametest123@gmail.com
+2024-12-17 17:12:977 INFO  HomePage :46 - enter passwordtest123
+2024-12-17 17:12:793 INFO  HomePage :40 - enter user nameAdmin
+2024-12-17 17:12:896 INFO  HomePage :46 - enter passwordadmin123
+2024-12-17 17:12:945 INFO  HomePage :52 - click on [[ChromeDriver: chrome on windows (6ff2b7b9aa3410b7c1f99db491cc8df6)] -> xpath: //button[@type='submit']]
+2024-12-17 17:12:01 INFO  HomePage :40 - enter user nameAdmin
+2024-12-17 17:12:94 INFO  HomePage :46 - enter passwordadmin123
+2024-12-17 17:12:35 INFO  HomePage :52 - click on [[ChromeDriver: chrome on windows (030fd7d3978b5d6ea6419bf099897eae)] -> xpath: //button[@type='submit']]
+2024-12-17 17:12:310 INFO  HomePage :40 - enter user nameAdmin
+2024-12-17 17:12:412 INFO  HomePage :46 - enter passwordadmin123
+2024-12-17 17:12:291 INFO  HomePage :52 - click on [[ChromeDriver: chrome on windows (ac158c86313ef1fb4c5a704d5568027d)] -> xpath: //button[@type='submit']]
+2024-12-17 17:12:519 INFO  HomePage :40 - enter user nameAdmin
+2024-12-17 17:12:616 INFO  HomePage :46 - enter passwordadmin123
+2024-12-17 17:12:683 INFO  HomePage :52 - click on [[ChromeDriver: chrome on windows (2a01c927042fa238b515b60cc4b53818)] -> xpath: //button[@type='submit']]
+2024-12-17 17:12:109 INFO  HomePage :40 - enter user nameAdmin
+2024-12-17 17:12:199 INFO  HomePage :46 - enter passwordadmin123
+2024-12-17 17:12:89 INFO  HomePage :52 - click on [[ChromeDriver: chrome on windows (001abeebd2a6d89d29f950202504a642)] -> xpath: //button[@type='submit']]
+2024-12-17 17:12:343 INFO  HomePage :40 - enter user nameAdmin
+2024-12-17 17:12:438 INFO  HomePage :46 - enter passwordadmin123
+2024-12-17 17:12:321 INFO  HomePage :52 - click on [[ChromeDriver: chrome on windows (8755c0c0c24b51282bcea6b3f3db54b0)] -> xpath: //button[@type='submit']]
+2024-12-17 17:12:528 INFO  HomePage :40 - enter user nameAdmin
+2024-12-17 17:12:614 INFO  HomePage :46 - enter passwordadmin123
+2024-12-17 17:12:489 INFO  HomePage :52 - click on [[ChromeDriver: chrome on windows (4dc303b9feffda2d1eedb337fd05d1b3)] -> xpath: //button[@type='submit']]
+2024-12-17 17:12:543 INFO  HomePage :40 - enter user nameAdmin
+2024-12-17 17:12:639 INFO  HomePage :46 - enter passwordadmin123
+2024-12-17 17:12:649 INFO  HomePage :41 - Getting welcome message
+2024-12-17 17:12:243 INFO  HomePage :40 - enter user nameAdmin
+2024-12-17 17:12:342 INFO  HomePage :46 - enter passwordadmin123
+2024-12-17 17:12:256 INFO  HomePage :52 - click on [[ChromeDriver: chrome on windows (385a41cd99cd3cd3de29f541a822849f)] -> xpath: //button[@type='submit']]
+2024-12-18 07:12:527 INFO  HomePage :40 - enter user nameAdmin
+2024-12-18 07:12:672 INFO  HomePage :46 - enter passwordadmin123
+2024-12-18 07:12:680 INFO  HomePage :41 - Getting welcome message
+2024-12-18 07:12:378 INFO  HomePage :40 - enter user nameAdmin
+2024-12-18 07:12:499 INFO  HomePage :46 - enter passwordadmin123
+2024-12-18 07:12:787 INFO  HomePage :52 - click on [[ChromeDriver: chrome on windows (1a4a390bb4382dda79aa1a56a804e1d3)] -> xpath: //button[@type='submit']]
+2024-12-18 07:12:157 INFO  HomePage :31 - verify user profile image is displayed [[ChromeDriver: chrome on windows (1a4a390bb4382dda79aa1a56a804e1d3)] -> xpath: //span[@class='oxd-userdropdown-tab']]
+2024-12-18 07:12:359 INFO  HomePage :40 - enter user nameAdmin
+2024-12-18 07:12:501 INFO  HomePage :46 - enter passwordadmin123
+2024-12-18 07:12:615 INFO  HomePage :52 - click on [[ChromeDriver: chrome on windows (54e4012cb9e762ac6dbdcbb36a796313)] -> xpath: //button[@type='submit']]
+2024-12-18 07:12:673 INFO  HomePage :48 - click on [[ChromeDriver: chrome on windows (54e4012cb9e762ac6dbdcbb36a796313)] -> xpath: //a[normalize-space()='Logout']]
+2024-12-18 07:12:436 INFO  HomePage :40 - enter user name
+2024-12-18 07:12:527 INFO  HomePage :46 - enter password
+2024-12-18 07:12:396 INFO  HomePage :40 - enter user nameprime123@gmail.com
+2024-12-18 07:12:338 INFO  HomePage :40 - enter user name
+2024-12-18 07:12:543 INFO  HomePage :46 - enter passwordprime123
+2024-12-18 07:12:901 INFO  HomePage :40 - enter user nameprime123@gmail.com
+2024-12-18 07:12:64 INFO  HomePage :46 - enter passwordprime123
+2024-12-18 07:12:758 INFO  HomePage :40 - enter user nameAdmin
+2024-12-18 07:12:901 INFO  HomePage :46 - enter passwordadmin123
+2024-12-18 07:12:914 INFO  HomePage :41 - Getting welcome message
+2024-12-18 07:12:150 INFO  HomePage :40 - enter user nameAdmin
+2024-12-18 07:12:287 INFO  HomePage :46 - enter passwordadmin123
+2024-12-18 07:12:425 INFO  HomePage :52 - click on [[ChromeDriver: chrome on windows (2ddea436d55b9c5deb97048d2e890dae)] -> xpath: //button[@type='submit']]
+2024-12-18 07:12:873 INFO  HomePage :40 - enter user nameAdmin
+2024-12-18 07:12:72 INFO  HomePage :46 - enter passwordadmin123
+2024-12-18 07:12:156 INFO  HomePage :52 - click on [[ChromeDriver: chrome on windows (d364079475f2c572f106ccee589cc759)] -> xpath: //button[@type='submit']]
+2024-12-18 07:12:881 INFO  HomePage :40 - enter user nameAdmin
+2024-12-18 07:12:74 INFO  HomePage :46 - enter passwordadmin123
+2024-12-18 07:12:158 INFO  HomePage :52 - click on [[ChromeDriver: chrome on windows (ec0a12425502b429e0763c72e6647bba)] -> xpath: //button[@type='submit']]
+2024-12-18 07:12:607 INFO  HomePage :40 - enter user nameAdmin
+2024-12-18 07:12:827 INFO  HomePage :46 - enter passwordadmin123
+2024-12-18 07:12:859 INFO  HomePage :52 - click on [[ChromeDriver: chrome on windows (e79dd50f943161544223b01165b94f92)] -> xpath: //button[@type='submit']]
+2024-12-18 07:12:747 INFO  HomePage :40 - enter user nameAdmin
+2024-12-18 07:12:914 INFO  HomePage :46 - enter passwordadmin123
+2024-12-18 07:12:915 INFO  HomePage :52 - click on [[ChromeDriver: chrome on windows (9dd73a840b3154321cf9cc5b120a107d)] -> xpath: //button[@type='submit']]
+2024-12-18 07:12:185 INFO  HomePage :40 - enter user nameAdmin
+2024-12-18 07:12:310 INFO  HomePage :46 - enter passwordadmin123
+2024-12-18 07:12:340 INFO  HomePage :52 - click on [[ChromeDriver: chrome on windows (983d3989576b77a5dd1b1af05e2ded52)] -> xpath: //button[@type='submit']]
+2024-12-18 07:12:14 INFO  HomePage :40 - enter user nameAdmin
+2024-12-18 07:12:224 INFO  HomePage :46 - enter passwordadmin123
+2024-12-18 07:12:304 INFO  HomePage :52 - click on [[ChromeDriver: chrome on windows (da670f78d2eb25ff67e976ea2ca8815d)] -> xpath: //button[@type='submit']]
